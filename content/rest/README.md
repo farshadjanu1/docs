@@ -1,4 +1,4 @@
-# REST
+# RESET
  The `/content/rest` directory is where the GitHub REST API docs live!
  
  * The `/content/rest/about-the-rest-api`, `/content/rest/guides` and `/content/rest/using-the-rest-api` directories contain regular articles. These are human-editable.
